@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dangfone.github.io/wordbase-test/sitemap.xml
